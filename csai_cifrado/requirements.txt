@@ -1,0 +1,2 @@
+argparse
+unicodedata2
